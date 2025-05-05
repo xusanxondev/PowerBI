@@ -1,2 +1,3 @@
 # PowerBI
-analitika vizualizatsiyalari homeworklar boyicha
+PowerBi , Analitika, 
+Vizualizatsiya, Loyiha, Homework va.hkz
